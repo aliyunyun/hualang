@@ -186,7 +186,6 @@ class AppComponent extends React.Component {
           imageArrangeArr[i].isInverse = false;
         }
 
-        debugger
 
         // 追加toparr
         if(imgsArrangeTopArr && imgsArrangeTopArr[0]){
